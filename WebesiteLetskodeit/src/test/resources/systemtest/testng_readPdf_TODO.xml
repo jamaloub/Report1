@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="pageObjects.TestNGListeners"/>
+    </listeners>
+    <letskodeit.test verbose="2" preserve-order="true"
+          name="C:/Users/jamal/IdeaProjects/WebesiteLetskodeit/src/letskodeit.test/java/letskodeit.test/readPdfDocument.java">
+        <classes>
+            <class name="letskodeit.testcomponent.ReadPdfDocument_TODO">
+            </class>
+        </classes>
+    </letskodeit.test>
+</suite>

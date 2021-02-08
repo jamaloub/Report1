@@ -1,0 +1,61 @@
+[INFO ] 2020-12-01 10:46:08.157 [main] Base - <https://learn.letskodeit.com/p/practice> --> Die Webseite ist erfolgreich aufgerufen
+[INFO ] 2020-12-01 10:46:09.353 [main] Base - Der Button CarHondaButton> --> ist selektiert
+[INFO ] 2020-12-01 10:46:10.551 [main] Base - Die Option honda ist selektiert
+[INFO ] 2020-12-01 10:46:11.729 [main] Base - Die Option orange ist selektiert
+[INFO ] 2020-12-01 10:46:12.833 [main] Base - Der Button CarHondaCheck> --> ist selektiert
+[ERROR] 2020-12-01 10:46:13.886 [main] Base - < Der Text Hallo Jamal Kein Text wurde eingegeben 
+[INFO ] 2020-12-01 11:54:09.985 [main] Base - <https://learn.letskodeit.com/p/practice> --> Die Webseite ist erfolgreich aufgerufen
+[INFO ] 2020-12-01 11:54:11.166 [main] Base - Der Button CarHondaButton> --> ist selektiert
+[INFO ] 2020-12-01 11:54:12.329 [main] Base - Die Option honda ist selektiert
+[INFO ] 2020-12-01 11:54:13.473 [main] Base - Die Option orange ist selektiert
+[INFO ] 2020-12-01 11:54:14.613 [main] Base - Der Button CarHondaCheck> --> ist selektiert
+[INFO ] 2020-12-01 11:54:15.797 [main] Base - < Der Text Hallo Jamal ist eingegeben
+[INFO ] 2020-12-01 11:54:18.831 [main] Base - Der Element mouseEffect ist Sichtbar
+[INFO ] 2020-12-01 11:54:25.216 [main] Base - Der Button ist betätigt
+[INFO ] 2020-12-01 11:54:25.216 [main] Base - Die ausgewählte Option ist selektiert
+[INFO ] 2020-12-01 11:54:26.375 [main] Base - < Der Button openTab> --> wurde angeklickt
+[INFO ] 2020-12-01 11:54:36.750 [main] Base - <https://learn.letskodeit.com/p/practice> --> Die Webseite ist erfolgreich aufgerufen
+[INFO ] 2020-12-01 11:54:37.896 [main] Base - Der Button CarBenzButton> --> ist selektiert
+[INFO ] 2020-12-01 11:54:39.053 [main] Base - Die Option benz ist selektiert
+[INFO ] 2020-12-01 11:54:40.213 [main] Base - Die Option peach ist selektiert
+[INFO ] 2020-12-01 11:54:41.330 [main] Base - Der Button CarBenzCheck> --> ist selektiert
+[INFO ] 2020-12-01 12:05:30.123 [main] Base - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+[INFO ] 2020-12-01 12:05:31.265 [main] Base - < Der Button ClickLoginButton> --> wurde angeklickt
+[INFO ] 2020-12-01 12:05:35.400 [main] Base - < Der Button ClickForgotPasswordLink> --> wurde angeklickt
+[INFO ] 2020-12-01 12:05:37.471 [main] Base - < Der Text Jamal_oubaouih@yahoo.de ist eingegeben
+[INFO ] 2020-12-01 12:05:39.452 [main] Base - < Der Button ClickCommitButton> --> wurde angeklickt
+[INFO ] 2020-12-01 12:06:45.855 [main] Base - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+[INFO ] 2020-12-01 12:06:47.036 [main] Base - < Der Button ClickLoginButton> --> wurde angeklickt
+[INFO ] 2020-12-01 12:06:51.158 [main] Base - < Der Button ClickForgotPasswordLink> --> wurde angeklickt
+[INFO ] 2020-12-01 12:06:53.731 [main] Base - < Der Text Jamal_oubaouih@yahoo.de ist eingegeben
+[INFO ] 2020-12-01 12:06:55.631 [main] Base - < Der Button ClickCommitButton> --> wurde angeklickt
+[INFO ] 2020-12-01 12:09:04.293 [main] Base - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+[INFO ] 2020-12-01 12:09:05.428 [main] Base - < Der Button ClickLoginButton> --> wurde angeklickt
+[INFO ] 2020-12-01 12:09:09.562 [main] Base - < Der Button ClickForgotPasswordLink> --> wurde angeklickt
+[INFO ] 2020-12-01 12:09:11.918 [main] Base - < Der Text Jamal_oubaouih@yahoo.de ist eingegeben
+[INFO ] 2020-12-01 12:09:13.818 [main] Base - < Der Button ClickCommitButton> --> wurde angeklickt
+[INFO ] 2020-12-01 12:26:43.386 [main] Base - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+[INFO ] 2020-12-01 12:26:44.614 [main] Base - < Der Button ClickLoginButton> --> wurde angeklickt
+[INFO ] 2020-12-01 12:26:48.835 [main] Base - < Der Button ClickForgotPasswordLink> --> wurde angeklickt
+[INFO ] 2020-12-01 12:26:51.868 [main] Base - < Der Text Jamal_oubaouih@yahoo.de ist eingegeben
+[INFO ] 2020-12-01 12:26:54.172 [main] Base - < Der Button ClickCommitButton> --> wurde angeklickt
+[INFO ] 2020-12-01 12:32:08.912 [main] Base - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+[INFO ] 2020-12-01 12:32:10.170 [main] Base - < Der Button ClickLoginButton> --> wurde angeklickt
+[INFO ] 2020-12-01 12:32:14.355 [main] Base - < Der Button ClickForgotPasswordLink> --> wurde angeklickt
+[INFO ] 2020-12-01 12:32:17.628 [main] Base - < Der Text Jamal_oubaouih@yahoo.de ist eingegeben
+[INFO ] 2020-12-01 12:32:19.713 [main] Base - < Der Button ClickCommitButton> --> wurde angeklickt
+[INFO ] 2020-12-01 12:49:40.592 [main] Base - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+[INFO ] 2020-12-01 12:49:41.869 [main] Base - < Der Button ClickLoginButton> --> wurde angeklickt
+[INFO ] 2020-12-01 12:49:46.054 [main] Base - < Der Button ClickForgotPasswordLink> --> wurde angeklickt
+[INFO ] 2020-12-01 12:49:48.830 [main] Base - < Der Text Jamal_oubaouih@yahoo.de ist eingegeben
+[INFO ] 2020-12-01 12:49:51.270 [main] Base - < Der Button ClickCommitButton> --> wurde angeklickt
+[INFO ] 2020-12-01 12:51:11.712 [main] Base - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+[INFO ] 2020-12-01 12:51:12.943 [main] Base - < Der Button ClickLoginButton> --> wurde angeklickt
+[INFO ] 2020-12-01 12:51:17.153 [main] Base - < Der Button ClickForgotPasswordLink> --> wurde angeklickt
+[INFO ] 2020-12-01 12:51:20.220 [main] Base - < Der Text Jamal_oubaouih@yahoo.de ist eingegeben
+[INFO ] 2020-12-01 12:51:22.706 [main] Base - < Der Button ClickCommitButton> --> wurde angeklickt
+[INFO ] 2020-12-01 13:02:20.534 [main] Base - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+[INFO ] 2020-12-01 13:02:21.857 [main] Base - < Der Button ClickLoginButton> --> wurde angeklickt
+[INFO ] 2020-12-01 13:02:26.035 [main] Base - < Der Button ClickForgotPasswordLink> --> wurde angeklickt
+[INFO ] 2020-12-01 13:02:28.768 [main] Base - < Der Text Jamal_oubaouih@yahoo.de ist eingegeben
+[INFO ] 2020-12-01 13:02:31.191 [main] Base - < Der Button ClickCommitButton> --> wurde angeklickt

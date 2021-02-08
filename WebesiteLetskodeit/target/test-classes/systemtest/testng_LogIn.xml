@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LogInSuite">
+    <test name="testComponentLogIn">
+        <parameter name="browsername" value="firefox"/>
+        <classes>
+            <class name="letskodeit.testcomponent.TestLogIn_LetsKodeIt">
+                <methods>
+                    <include name="logIn"></include>
+                    <include name="forgotPassword"></include>
+             </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

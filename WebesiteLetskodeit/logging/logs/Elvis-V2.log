@@ -1,0 +1,63 @@
+2020-12-03 13:35:00,081 - letskodeit.test.BrowserControler -INFO - Userdir: C:\myWork\WORKSPACES\WebesiteLetskodeit
+2020-12-03 13:37:41,391 - letskodeit.test.BrowserControler -INFO - Userdir: C:\myWork\WORKSPACES\WebesiteLetskodeit
+2020-12-03 13:37:55,354 - pageObjects.BasePage -INFO - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+2020-12-03 13:37:58,537 - pageObjects.BasePage -INFO - < Der Button ClickLoginButton> --> wurde angeklickt
+2020-12-03 13:37:59,756 - pageObjects.BasePage -INFO - < Der Text Jamal_oubaouih@yahoo.de ist eingegeben
+2020-12-03 13:38:00,992 - pageObjects.BasePage -INFO - < Der Text 1111 ist eingegeben
+2020-12-03 13:38:02,778 - pageObjects.BasePage -INFO - < Der Button ClickCommitButton> --> wurde angeklickt
+2020-12-03 13:39:50,850 - letskodeit.test.BrowserControler -INFO - Userdir: C:\myWork\WORKSPACES\WebesiteLetskodeit
+2020-12-03 13:40:04,758 - pageObjects.BasePage -INFO - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+2020-12-03 13:40:06,207 - pageObjects.BasePage -INFO - < Der Button ClickLoginButton> --> wurde angeklickt
+2020-12-03 13:40:08,423 - pageObjects.BasePage -INFO - < Der Text Jamal_oubaouih@yahoo.de ist eingegeben
+2020-12-03 13:40:09,623 - pageObjects.BasePage -INFO - < Der Text 1111 ist eingegeben
+2020-12-03 13:40:11,289 - pageObjects.BasePage -INFO - < Der Button ClickCommitButton> --> wurde angeklickt
+2020-12-03 13:42:17,663 - letskodeit.test.BrowserControler -INFO - Userdir: C:\myWork\WORKSPACES\WebesiteLetskodeit
+2020-12-03 13:42:31,432 - pageObjects.BasePage -INFO - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+2020-12-03 13:42:32,852 - pageObjects.BasePage -INFO - < Der Button ClickLoginButton> --> wurde angeklickt
+2020-12-03 13:42:37,253 - pageObjects.BasePage -INFO - < Der Button ClickForgotPasswordLink> --> wurde angeklickt
+2020-12-03 13:42:39,386 - pageObjects.BasePage -INFO - < Der Text Jamal_oubaouih@yahoo.de ist eingegeben
+2020-12-03 13:42:42,436 - pageObjects.BasePage -INFO - < Der Button ClickCommitButton> --> wurde angeklickt
+2020-12-03 14:32:52,494 - letskodeit.test.BrowserControler -INFO - Userdir: C:\myWork\WORKSPACES\WebesiteLetskodeit
+2020-12-03 14:33:06,445 - pageObjects.BasePage -INFO - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+2020-12-03 14:34:40,450 - letskodeit.test.BrowserControler -INFO - Userdir: C:\myWork\WORKSPACES\WebesiteLetskodeit
+2020-12-03 14:34:54,254 - pageObjects.BasePage -INFO - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+2020-12-03 14:50:36,342 - letskodeit.test.BrowserControler -INFO - Userdir: C:\myWork\WORKSPACES\WebesiteLetskodeit
+2020-12-03 14:50:50,145 - pageObjects.BasePage -INFO - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+2020-12-03 14:50:51,578 - pageObjects.BasePage -INFO - < Der Link PRACTICE_LINK wurde angeklickt
+2020-12-03 14:50:52,921 - pageObjects.BasePage -INFO - Der Button CAR_BENZ_BUTTON> --> ist selektiert
+2020-12-03 14:50:54,877 - pageObjects.BasePage -INFO - Die Option benz ist selektiert
+2020-12-03 14:50:56,282 - pageObjects.BasePage -INFO - Die Option orange ist selektiert
+2020-12-03 14:50:57,639 - pageObjects.BasePage -INFO - Der Button CAR_BENZ_CHECK> --> ist selektiert
+2020-12-03 14:50:58,806 - pageObjects.BasePage -INFO - < Der Text loreYpsheft ist eingegeben
+2020-12-03 14:50:58,843 - pageObjects.BasePage -INFO - Der Element MOUSE_EFFECT ist Sichtbar
+2020-12-03 14:51:02,283 - pageObjects.BasePage -INFO - Der Button ist betätigt
+2020-12-03 14:51:02,283 - pageObjects.BasePage -INFO - Die ausgewählte Option ist selektiert
+2020-12-03 14:51:03,454 - pageObjects.BasePage -INFO - < Der Button OPEN_TAB> --> wurde angeklickt
+2020-12-03 14:54:38,931 - letskodeit.test.BrowserControler -INFO - Userdir: C:\myWork\WORKSPACES\WebesiteLetskodeit
+2020-12-03 14:54:52,492 - pageObjects.BasePage -INFO - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+2020-12-03 14:55:42,451 - letskodeit.test.BrowserControler -INFO - Userdir: C:\myWork\WORKSPACES\WebesiteLetskodeit
+2020-12-03 14:55:56,168 - pageObjects.BasePage -INFO - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+2020-12-03 14:55:57,572 - pageObjects.BasePage -INFO - < Der Link PRACTICE_LINK wurde angeklickt
+2020-12-03 14:55:59,223 - pageObjects.BasePage -INFO - Der Button CAR_HONDA_BUTTON> --> ist selektiert
+2020-12-03 14:56:01,239 - pageObjects.BasePage -INFO - Die Option honda ist selektiert
+2020-12-03 14:56:02,644 - pageObjects.BasePage -INFO - Die Option peach ist selektiert
+2020-12-03 14:56:03,990 - pageObjects.BasePage -INFO - Der Button CAR_HONDA_CHECK> --> ist selektiert
+2020-12-03 15:11:18,043 - letskodeit.test.BrowserControler -INFO - Userdir: C:\myWork\WORKSPACES\WebesiteLetskodeit
+2020-12-03 15:11:31,598 - pageObjects.BasePage -INFO - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+2020-12-03 15:11:33,033 - pageObjects.BasePage -INFO - < Der Button CLICK_LOGIN_BUTTON> --> wurde angeklickt
+2020-12-03 15:11:39,280 - pageObjects.BasePage -INFO - < Der Button CLICK_FORGOT_PASSWORD_LINK> --> wurde angeklickt
+2020-12-03 15:11:40,484 - pageObjects.BasePage -INFO - < Der Text Jamal_oubaouih@yahoo.de ist eingegeben
+2020-12-03 15:11:43,837 - pageObjects.BasePage -INFO - < Der Button CLICK_COMMIT_BUTTON> --> wurde angeklickt
+2020-12-03 15:11:45,370 - letskodeit.test.BrowserControler -INFO - Userdir: C:\myWork\WORKSPACES\WebesiteLetskodeit
+2020-12-03 15:11:56,838 - pageObjects.BasePage -INFO - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+2020-12-03 15:11:58,227 - pageObjects.BasePage -INFO - < Der Button CLICK_LOGIN_BUTTON> --> wurde angeklickt
+2020-12-03 15:12:00,190 - pageObjects.BasePage -INFO - < Der Text Jamal_oubaouih@yahoo.de ist eingegeben
+2020-12-03 15:12:01,358 - pageObjects.BasePage -INFO - < Der Text 1111 ist eingegeben
+2020-12-03 15:12:03,303 - pageObjects.BasePage -INFO - < Der Button CLICK_COMMIT_BUTTON> --> wurde angeklickt
+2020-12-03 15:38:11,234 - letskodeit.test.BrowserControler -INFO - Userdir: C:\myWork\WORKSPACES\WebesiteLetskodeit
+2020-12-03 15:38:24,898 - pageObjects.BasePage -INFO - <https://letskodeit.teachable.com/> --> Die Webseite ist erfolgreich aufgerufen
+2020-12-03 15:38:26,323 - pageObjects.BasePage -INFO - < Der Button CLICK_LOGIN_BUTTON> --> wurde angeklickt
+2020-12-03 15:38:28,346 - pageObjects.BasePage -INFO - < Der Text Jamal_oubaouih@yahoo.de ist eingegeben
+2020-12-03 15:38:29,515 - pageObjects.BasePage -INFO - < Der Text 1111 ist eingegeben
+2020-12-03 15:38:31,472 - pageObjects.BasePage -INFO - < Der Button CLICK_COMMIT_BUTTON> --> wurde angeklickt
+2020-12-03 15:38:34,092 - letskodeit.test.BrowserControler -INFO - Userdir: C:\myWork\WORKSPACES\WebesiteLetskodeit
